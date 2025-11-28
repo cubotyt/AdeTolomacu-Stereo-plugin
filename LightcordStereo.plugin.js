@@ -1,11 +1,11 @@
 /**
- * @name LightcordStereo
- * @description Stereo Plugin for BD
+ * @name AdeTolomacuStereo
+ * @description Stereo Plugin for Me
  * @version 1.0.0
- * @author skenzo
- * @authorId 842214916135976981
- * @invite discord.gg/lightcord
- * @website https://www.youtube.com/channel/UCHcAFxh0nWGDVv-TOqxgDRQ
+ * @author AdeTolomacu 
+ * @authorId 572516501743992872
+ * @invite
+ * @website https://guns.lol/adelin.adi
  */
 
 module.exports = class LightcordStereo {
@@ -47,3 +47,4 @@ module.exports = class LightcordStereo {
         BdApi.Patcher.unpatchAll("LightcordStereo");
     }
 };
+
