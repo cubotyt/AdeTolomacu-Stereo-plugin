@@ -2,7 +2,7 @@
  * @name AdeTolomacuStereo
  * @description Stereo Plugin for BD
  * @version 1.0.0
- * @author skenzo
+ * @author AdeTolomacu
  * @authorId 572516501743992872
  * @invite 
  * @website https://guns.lol/adelin.adi
@@ -47,4 +47,5 @@ module.exports = class LightcordStereo {
         BdApi.Patcher.unpatchAll("LightcordStereo");
     }
 };
+
 
