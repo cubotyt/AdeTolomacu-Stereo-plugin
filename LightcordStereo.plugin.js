@@ -5,7 +5,7 @@
  * @author AdeTolomacu
  * @authorId 572516501743992872
  * @invite 
- * @website https://guns.lol/adelin.adi
+ * @website https://guns.lol/adetolomacu
  */
 
 module.exports = class LightcordStereo {
@@ -47,3 +47,4 @@ module.exports = class LightcordStereo {
         BdApi.Patcher.unpatchAll("LightcordStereo");
     }
 };
+
